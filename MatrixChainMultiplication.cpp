@@ -6,7 +6,7 @@ int main() {
     int n = 5;
     int p[5] = { 5, 4, 6, 2, 7};
     int j, min, q;
-    int M[5][5], S[5][5];
+    int M[5][5];
 
     memset (M, 0, sizeof(M));
 
